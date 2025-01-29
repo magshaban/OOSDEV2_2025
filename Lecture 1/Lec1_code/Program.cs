@@ -9,7 +9,6 @@
  *
  * Lecturer: Dr. Maged Shaban
  * Department of Computing, TU-Dublin
- * Emal
  */
 
 
