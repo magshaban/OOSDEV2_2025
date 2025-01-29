@@ -1,0 +1,15 @@
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\bin\Debug\net9.0\Lec1_code.exe
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\bin\Debug\net9.0\Lec1_code.deps.json
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\bin\Debug\net9.0\Lec1_code.runtimeconfig.json
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\bin\Debug\net9.0\Lec1_code.dll
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\bin\Debug\net9.0\Lec1_code.pdb
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.AssemblyInfoInputs.cache
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.AssemblyInfo.cs
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.csproj.CoreCompileInputs.cache
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.sourcelink.json
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.dll
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\refint\Lec1_code.dll
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.pdb
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\Lec1_code.genruntimeconfig.cache
+C:\Users\scima\Documents\Teaching\OO SDEV2\Codes_CS\OOSDEV2_2025\Lecture 1\Lec1_code\obj\Debug\net9.0\ref\Lec1_code.dll
