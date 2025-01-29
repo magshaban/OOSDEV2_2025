@@ -1,4 +1,4 @@
-# OOSDEV2_2025
+# Object-Oriented Software Development 2
 
 This repository contains the code examples for the Advanced Object-Oriented Software Development 2 course.
 
@@ -8,10 +8,10 @@ This is a temporary repository available only during lecture time. Please make s
 
 ## Last Update
 
-Last update:
-```markdown
-<!--- Last updated: {date} --->
-```
+## Last Update
+
+<!--- Last updated: {{< date >}} --->
+
 
 ## Course Content
 
