@@ -15,7 +15,7 @@ This lecture delves into the fundamental principles of Object-Oriented Programmi
 - **Lec1_code.cs**: This file contains the complete code examples discussed in the lecture.
 - **Lec1_code Directory**: This directory includes all project files and resources necessary for the lecture.
 
-## Additional Resources
-- **Lecture Slides**: Access detailed slides that explain each concept with examples.
-- **Reference Materials**: Find links to additional readings and documentation on OOP in C#.
+## Additional Information
+- The full lecture code can be found in `Lec1_code.cs`.
+- The full project can be found in the directory `Lec1_code`.
 
