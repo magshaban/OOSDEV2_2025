@@ -18,3 +18,7 @@ This project demonstrates the fundamentals of Object-Oriented Programming (OOP) 
 
 ## Expected Output
 The program prints information about different persons, students, and teachers.
+
+## Additional Information
+- The full lecture code can be found in `Lec1_code.cs`.
+- The full project can be found in the directory `Lec1_code`.
