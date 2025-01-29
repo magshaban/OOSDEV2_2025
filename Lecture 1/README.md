@@ -1,24 +1,21 @@
 # Lecture 1: Object-Oriented Programming - Software Development 2
 
 ## Overview
-This project demonstrates the fundamentals of Object-Oriented Programming (OOP) in C#.
+This lecture delves into the fundamental principles of Object-Oriented Programming (OOP) using C#. The accompanying project provides practical examples and code implementations to solidify these concepts.
 
 ## Key Concepts
-- **Classes & Objects**: Defines `Person`, `Student`, and `Teacher` classes.
-- **Encapsulation**: Uses properties for controlled data access (`Name`, `Age`, `major`, `Subject`).
-- **Constructors**: Provides multiple ways to initialize objects.
-- **Methods**: Includes instance (`Info`) and static (`ClassInfo`) methods.
-- **Inheritance**: `Student` and `Teacher` inherit from `Person`.
-- **Polymorphism**: Overrides methods in child classes.
+- **Classes & Objects**: Learn about the creation and usage of `Person`, `Student`, and `Teacher` classes.
+- **Encapsulation**: Understand how to implement properties to control data access, such as `Name`, `Age`, `Major`, and `Subject`.
+- **Constructors**: Explore different ways to initialize objects using constructors.
+- **Methods**: Discover the use of instance methods like `Info` and static methods like `ClassInfo`.
+- **Inheritance**: See how `Student` and `Teacher` classes inherit from the `Person` class, demonstrating the concept of inheritance.
+- **Polymorphism**: Observe method overriding in derived classes to understand polymorphism.
 
-## Program Flow
-1. Creates and initializes instances of `Person`, `Student`, and `Teacher`.
-2. Demonstrates property assignments and method calls.
-3. Uses static methods for class-level info.
+## Project Structure
+- **Lec1_code.cs**: This file contains the complete code examples discussed in the lecture.
+- **Lec1_code Directory**: This directory includes all project files and resources necessary for the lecture.
 
-## Expected Output
-The program prints information about different persons, students, and teachers.
+## Additional Resources
+- **Lecture Slides**: Access detailed slides that explain each concept with examples.
+- **Reference Materials**: Find links to additional readings and documentation on OOP in C#.
 
-## Additional Information
-- The full lecture code can be found in `Lec1_code.cs`.
-- The full project can be found in the directory `Lec1_code`.
