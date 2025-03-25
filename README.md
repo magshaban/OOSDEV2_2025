@@ -9,13 +9,18 @@ Email: maged.shaban[at]tudublin.ie
 ## Course Overview
 This course focuses on **advanced object-oriented programming (OOP) concepts** using C# and Java. It builds upon oo programming principles, covering topics such as **inheritance, polymorphism, interfaces, generics, data structures, algorithm analysis, and concurrency**. The course includes **both theoretical discussions and practical coding examples** to ensure students gain a strong grasp of modern software development practices.
 
+## Course Info.
+This course is tailored for Level 8 students enrolled in the Higher Diploma in Science in Computing (program codes: TU067, TU450, TA_KCOMP_HD_DNU), as well as 3rd-year students pursuing a Bachelor of Science in Computing or a Bachelor of Science in Information Technology.
+
+- **Module Code:** SDEVH1003
+- **Credits:** 10 ECTS
+
 ## Course Organization
 The course is divided into different lectures, each focusing on a core topic. Each lecture provides:
 - **Key theoretical concepts**
 - **Code demonstrations**
-- **Practical applications**
-- **Hands-on exercises/Computer Labs (10)**
-- **CAs (3)**
+- **Hands-on Exercises/Computer Labs (10 sessions)**
+- **Continuous Assessments (2 practical and 1 theoretical)**
 
 **Additionally, there are dedicated computer lab sessions** (2 hours per week) where students can practice coding exercises and receive guidance from instructors/tutor. For more details, please refer to the course information on Brightspace.
 
